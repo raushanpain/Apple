@@ -1,0 +1,34 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    width:100% ;
+    height: 100%;
+}
+.navbar{
+    height: 45px;
+    width: 100%;
+    background-color: #e8e8ed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 300px;
+
+}
+.navlink{
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-optical-sizing:auto ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-style: normal;
+    font-family: 12px;
+
+}
+
+i{
+    color: black;
+}
